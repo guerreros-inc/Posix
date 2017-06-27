@@ -8,9 +8,9 @@
 
 
 Modificar
-git add hola.txt
-git commit -m "javi es puto"
-git status
-git push 
-git pull
+git add hola.txt\n
+git commit -m "javi es puto"\n
+git status\n
+git push\n
+git pull\n
 
